@@ -14,7 +14,7 @@ Below is a video of me emulating a program that outputs even integers from 0 to 
 
 https://github.com/rohildshah/ccs-1b-emulator/assets/47135708/2f451714-6f63-4e22-9731-d056150a0819
 
-Below is another video of me emulating a program that outputs the sum of the integers from 1 to n, where n is read from user input. I chose this example because it makes use of `syscall`, `jal`, `jr`, `lw`, `sw`, a more involved test of my stack/memory implementation.
+Below is another video of me emulating a program that recursively outputs the sum of the integers from 1 to n, where n is read from user input. I chose this example because it makes use of `syscall`, `jal`, `jr`, `lw`, `sw`, a more involved test of my stack/memory implementation (especially `$ra`).
 
 https://github.com/rohildshah/ccs-1b-emulator/assets/47135708/06a11f6e-6646-43d0-9a13-7fe47ceed3a3
 
