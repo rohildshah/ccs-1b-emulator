@@ -1,4 +1,4 @@
-# ccs-1b-emulator
+# ccs-1b-mips-emulator
 
 ## Usage
 1. Clone the repository
