@@ -1,5 +1,7 @@
 # ccs-1b-mips-emulator
 
+Program to decode and execute MIPS instructions on a set of registers. CCS 1B class project, authored by Rohil Shah.
+
 ## Usage
 1. Clone the repository
 2. Place your hex program in `program.txt`
